@@ -6,7 +6,7 @@
     <string name="recipient">Destinatario</string>
     <string name="error_field_required">Este campo es obligatorio</string>
     <string name="action_settings">Ajustes</string>
-    <string name="title_account_list">Monederos</string>
+    <string name="title_account_list">Cybermintwallet</string>
     <string name="confirm_delete_account">Asegúrate de que tienes una copia de seguridad de este monedero.</string>
     <string name="copy">Copiar al portapapeles</string>
     <string name="sent">Enviado</string>
